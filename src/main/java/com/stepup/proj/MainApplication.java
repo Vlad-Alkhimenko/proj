@@ -6,5 +6,6 @@ public class MainApplication {
         System.out.println("3333");
         System.out.println("2222");
         System.out.println("update logic TASK-142");
+        System.out.println("---------");
     }
 }
